@@ -1,0 +1,1 @@
+web: gunicorn Face_Rec:Face_Rec
